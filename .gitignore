@@ -1,0 +1,11 @@
+/Pc_ver
+/PC_Code/kafka_trading_env
+/PC_Code/venv
+/PC_Code/kafka-nextjs-dashboard/node_modules
+/PC_Code/node_modules
+PC_Code/kafka-nextjs-dashboard/.env.local
+
+*.tar
+/node_modules
+/.venv
+/logs
